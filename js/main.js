@@ -7,7 +7,7 @@ var mySwiper = new Swiper(".swiper-container", {
     clickable: true
   },
   autoplay: {
-    delay: 1000,
+    delay: 3000,
   },
 });
 
